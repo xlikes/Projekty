@@ -6,7 +6,9 @@ public class LiczenieLiterSlowa {
         Scanner odczyt = new Scanner(System.in);
         slowo = odczyt.nextLine();
         count(slowo);
-        index(slowo);
+        indexy.index(slowo);
+        slowoDoTablicy.doTablicy(slowo);
+        slowoDoTablicy.sprawdzA(slowo);
     }
 
    public static void count(String x){
@@ -19,11 +21,6 @@ public class LiczenieLiterSlowa {
        System.out.println("liczba liter to "+litery);
     }
 
-        public static void index(String slowo){
-        int index1 = slowo.charAt(0);
-        int index2 = slowo.charAt(4);
-            System.out.println("pierwsza litera to "+(char)index1);
-            System.out.println("piata litera to "+(char)index2);
-        }
+
 
 }
