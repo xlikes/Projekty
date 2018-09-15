@@ -1,4 +1,4 @@
-package Zwierzeta;
+package ZwierzetaPolimorfizmDziedziczenie;
 
 public class zwierzetaAkcja {
 

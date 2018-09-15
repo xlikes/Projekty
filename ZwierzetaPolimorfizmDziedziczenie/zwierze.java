@@ -1,5 +1,4 @@
-package Zwierzeta;
-
+package ZwierzetaPolimorfizmDziedziczenie;
 public class zwierze {
 
     private String nazwa;
