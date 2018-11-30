@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LicznikKalori:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LicznikKalori_jar</output-path>
+    <root id="archive" name="LicznikKalori.jar">
+      <element id="module-output" name="LicznikKalori" />
+    </root>
+  </artifact>
+</component>
