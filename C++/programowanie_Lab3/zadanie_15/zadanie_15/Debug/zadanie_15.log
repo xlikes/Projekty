@@ -1,0 +1,5 @@
+﻿  zadanie_15.cpp
+z:\programowanie_lab3\zadanie_15\zadanie_15\zadanie_15.cpp(31): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  zadanie_15.vcxproj -> Z:\programowanie_Lab3\zadanie_15\Debug\zadanie_15.exe
+  zadanie_15.vcxproj -> Z:\programowanie_Lab3\zadanie_15\Debug\zadanie_15.pdb (Partial PDB)
