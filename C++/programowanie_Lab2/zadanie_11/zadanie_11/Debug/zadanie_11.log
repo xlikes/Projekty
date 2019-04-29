@@ -1,4 +1,0 @@
-﻿  zadanie_11.cpp
-z:\programowanie1\zadanie_11\zadanie_11\zadanie_11.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  zadanie_11.vcxproj -> Z:\programowanie1\zadanie_11\Debug\zadanie_11.exe
-  zadanie_11.vcxproj -> Z:\programowanie1\zadanie_11\Debug\zadanie_11.pdb (Partial PDB)
