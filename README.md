@@ -9,7 +9,7 @@ Game gameplay can be checked under the link below
 https://www.youtube.com/watch?v=DzeeFJqza9g&feature=youtu.be
 
 #POL
-1) Witaj w moim repozytorium z moimi projektami w Languanges: C #, Java
+1) Witaj w moim repozytorium z moimi projektami w językach: C #, Java
 Wybierz folder, który Cię interesuje i sprawdź kod moich programów
 
 
